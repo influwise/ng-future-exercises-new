@@ -11,8 +11,7 @@
   "tasks": {
     "ng": {
       "name": "ng",
-      "command": "npm run ng",
-      "runAtStart": false
+      "command": "npm run ng"
     },
     "start": {
       "name": "start",
@@ -21,33 +20,27 @@
     },
     "build": {
       "name": "build",
-      "command": "npm run build",
-      "runAtStart": false
+      "command": "npm run build"
     },
     "watch": {
       "name": "watch",
-      "command": "npm run watch",
-      "runAtStart": false
+      "command": "npm run watch"
     },
     "test": {
       "name": "test",
-      "command": "npm run test",
-      "runAtStart": false
+      "command": "npm run test"
     },
     "lint": {
       "name": "lint",
-      "command": "npm run lint",
-      "runAtStart": false
+      "command": "npm run lint"
     },
     "format": {
       "name": "format",
-      "command": "npm run format",
-      "runAtStart": false
+      "command": "npm run format"
     },
     "prepare": {
       "name": "prepare",
-      "command": "npm run prepare",
-      "runAtStart": false
+      "command": "npm run prepare"
     }
   }
 }
