@@ -6,6 +6,7 @@ El objetivo de este ejercicio es trabajar la anidación de componentes y el cont
 
 ## Requisitos
 
+- Force conflict
 - El componente debe tener una lista de hábitos
 - El componente debe mostrar los hábitos utilizando el componente habit creado en el ejercicio anterior
 - El componente debe usar un fichero .html para el template
